@@ -331,4 +331,4 @@ cat("• The likelihood plot shows a clear single peak at the MLE\n")
 
 [← Return to Course Materials](https://bsta-150.github.io/course/)
 
-[Link to qmd (quarto markdown)](https://github.com/BSTA-150/comparingRawSurvivalDatatoExponentialModels/index.rmd)
+[Link to qmd (quarto markdown)](https://github.com/BSTA-150/comparingRawSurvivalDatatoExponentialModels/index.qmd)
